@@ -1,4 +1,6 @@
-# Note Taker Starter Code
+# Note Taker 
+
+Here is a note taker I have made from some starter code given to me. I used Express.js in order to run things server side. 
 
 # User Story
 
