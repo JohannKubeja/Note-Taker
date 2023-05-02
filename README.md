@@ -44,3 +44,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 # Installation
 
 You will need Express.js for this.
+
+# Screenshot
+
+
